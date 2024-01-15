@@ -1,8 +1,9 @@
-*{
+ *{
     margin: 0;
     /* ot hide or show the scrol ball */
     overflow-x: hidden;
 
+/* ===============NAV DIV==================*/
 }
 .navigation{
   background-color: #530303;
